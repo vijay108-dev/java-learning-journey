@@ -2,7 +2,6 @@
 class Car{
 String color;
 int speed;
-
     // Default Constructor
     Car() {
         color = "Yellow";
