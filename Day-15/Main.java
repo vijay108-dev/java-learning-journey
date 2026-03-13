@@ -11,7 +11,6 @@ public class Main {
         System.out.println(s2.name + " , " + s2.age + " , " + s2.rollNumber + " , " + Student.college);
     }
 }
-
 class Student {
     String name;
     int age;
